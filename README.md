@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Adrian Beeksma 👋
 
-<!--
-**lucid4life/lucid4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Product Developer & Founder
 
-Here are some ideas to get you started:
+I build tools that make technology more accessible. Currently focused on **[QuickSay](https://quicksay.app)** — voice-to-text dictation for Windows that just works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎤 QuickSay
+
+Voice-to-text dictation for Windows. Press a hotkey, speak, and your words appear as text wherever your cursor is. Powered by Groq's Whisper API with AI-powered text cleanup.
+
+- ⚡ Fast, accurate transcription
+- - 🧠 AI-powered text cleanup
+  - - 🔒 Privacy-focused design
+    - - 💻 Works anywhere on Windows
+     
+      - **[Visit QuickSay →](https://quicksay.app)**
+     
+      - ### 🛠️ Tech Stack
+     
+      - - AutoHotkey & Windows APIs
+        - - Groq Whisper API
+          - - Modern web technologies
+           
+            - ### 📫 Get in Touch
+           
+            - - Website: [quicksay.app](https://quicksay.app)
+              - - Email: say@quicksay.app
+                - - Location: Calgary, Canada
+                 
+                  - ---
+
+                  *Building accessible productivity tools, one keystroke at a time.*
